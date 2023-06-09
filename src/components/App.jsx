@@ -2,8 +2,7 @@ import FeedbackOptions from './FeedbackOptions/FeedbackOptions';
 import Statistics from './Statistics/Statistics';
 import { Section } from './Section/Section';
 import React, { Component } from 'react';
-import css from './App.module.css'
-
+import css from './App.module.css';
 class App extends Component {
   state = {
     good: 0,
@@ -50,4 +49,3 @@ class App extends Component {
 }
 
 export { App };
-
