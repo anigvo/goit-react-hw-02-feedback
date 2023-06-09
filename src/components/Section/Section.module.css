@@ -1,0 +1,7 @@
+.section:not(:last-child) {
+margin-bottom: 80px;
+}
+.title {
+    font-size: 25px;
+    font-weight: bold; 
+}
